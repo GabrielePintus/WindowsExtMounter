@@ -1,5 +1,7 @@
 # WSL Ext4 Partition Mounter
 
+⚠️ Disclaimer: this code is 100% vibecoded and completely unreviewed (for now).
+
 A graphical user interface (GUI) application for Windows that simplifies mounting and unmounting ext4 partitions using WSL2. No more typing complex PowerShell commands!
 
 ![WSL Mounter](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
