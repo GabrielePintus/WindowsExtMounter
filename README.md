@@ -322,6 +322,3 @@ MIT License - Feel free to modify and distribute
   - Multi-filesystem support
   - Activity logging
 
----
-
-**Note:** This tool is designed for convenience and education. Always backup important data before mounting/unmounting drives!
